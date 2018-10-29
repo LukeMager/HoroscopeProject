@@ -1,0 +1,43 @@
+body{
+    background-color: cornflowerblue;
+    font-family: "Gill Sans MT";
+}
+
+#title{
+    font-size: 70px;
+    position: relative;
+    text-align: center;
+    color: lightgreen;
+}
+
+#myName{
+    font-size: 25px;
+    position: relative;
+    text-align: center;
+    color: lightgreen;
+}
+
+.element{
+    padding: 10px;
+    font-size: 20px;
+    color: lightgreen;
+}
+
+#myImage{
+    position: relative;
+    text-align: center;
+}
+
+#userName{
+    position: relative;
+    text-align: center;
+}
+#userSign{
+    position: relative;
+    text-align: center;
+}
+
+#message{
+    position: relative;
+    text-align: center;
+}
